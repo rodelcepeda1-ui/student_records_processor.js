@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1201,
+        "name": "Ronniel Revira",
+        "year": 1,
+        "course": "BSIT",
+        "grades": [93, 85, 88, 92],
+        "enrolled": true
+    },
+    {
+        "id": 1302,
+        "name": "Rein Earl Paras",
+        "year": 2,
+        "course": "BEED",
+        "grades": [97, 91, 89, 93],
+        "enrolled": true
+    },
+    {
+        "id": 1403,
+        "name": "Mark Andrey Revira",
+        "year": 1,
+        "course": "BSAB",
+        "grades": [83, 84, 79, 85],
+        "enrolled": false
+    },
+    {
+        "id": 1504,
+        "name": "Jero Esteban",
+        "year": 3,
+        "course": "BSAB",
+        "grades": [92, 94, 97, 93],
+        "enrolled": true
+    },
+    {
+        "id": 1605,
+        "name": "Mark Angelou Banatasa",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [89, 93, 86, 88],
+        "enrolled": true
+    }
+]
