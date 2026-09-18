@@ -1,9 +1,6 @@
 public class StudentRecords {
 
-    // -----------------------------------------------------------------
-    // Data model
-    // -----------------------------------------------------------------
-
+    
     static class Student {
         final int id;
         final String name;
@@ -23,10 +20,6 @@ public class StudentRecords {
             this.enrolled = enrolled;
         }
     }
-
-    // -----------------------------------------------------------------
-    // Core analysis functions
-    // -----------------------------------------------------------------
 
        static double getAverageGrade(Student student) {
         if (student == null) {
